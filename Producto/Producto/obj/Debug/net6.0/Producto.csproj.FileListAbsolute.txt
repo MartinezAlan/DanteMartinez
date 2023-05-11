@@ -1,0 +1,15 @@
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Producto\Producto\bin\Debug\net6.0\Producto.exe
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Producto\Producto\bin\Debug\net6.0\Producto.deps.json
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Producto\Producto\bin\Debug\net6.0\Producto.runtimeconfig.json
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Producto\Producto\bin\Debug\net6.0\Producto.dll
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Producto\Producto\bin\Debug\net6.0\Producto.pdb
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Producto\Producto\obj\Debug\net6.0\Producto.csproj.AssemblyReference.cache
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Producto\Producto\obj\Debug\net6.0\Producto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Producto\Producto\obj\Debug\net6.0\Producto.AssemblyInfoInputs.cache
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Producto\Producto\obj\Debug\net6.0\Producto.AssemblyInfo.cs
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Producto\Producto\obj\Debug\net6.0\Producto.csproj.CoreCompileInputs.cache
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Producto\Producto\obj\Debug\net6.0\Producto.dll
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Producto\Producto\obj\Debug\net6.0\refint\Producto.dll
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Producto\Producto\obj\Debug\net6.0\Producto.pdb
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Producto\Producto\obj\Debug\net6.0\Producto.genruntimeconfig.cache
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Producto\Producto\obj\Debug\net6.0\ref\Producto.dll
