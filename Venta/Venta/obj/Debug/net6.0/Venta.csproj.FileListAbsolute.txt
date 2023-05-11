@@ -1,0 +1,15 @@
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Venta\Venta\bin\Debug\net6.0\Venta.exe
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Venta\Venta\bin\Debug\net6.0\Venta.deps.json
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Venta\Venta\bin\Debug\net6.0\Venta.runtimeconfig.json
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Venta\Venta\bin\Debug\net6.0\Venta.dll
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Venta\Venta\bin\Debug\net6.0\Venta.pdb
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Venta\Venta\obj\Debug\net6.0\Venta.csproj.AssemblyReference.cache
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Venta\Venta\obj\Debug\net6.0\Venta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Venta\Venta\obj\Debug\net6.0\Venta.AssemblyInfoInputs.cache
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Venta\Venta\obj\Debug\net6.0\Venta.AssemblyInfo.cs
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Venta\Venta\obj\Debug\net6.0\Venta.csproj.CoreCompileInputs.cache
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Venta\Venta\obj\Debug\net6.0\Venta.dll
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Venta\Venta\obj\Debug\net6.0\refint\Venta.dll
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Venta\Venta\obj\Debug\net6.0\Venta.pdb
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Venta\Venta\obj\Debug\net6.0\Venta.genruntimeconfig.cache
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\Venta\Venta\obj\Debug\net6.0\ref\Venta.dll
