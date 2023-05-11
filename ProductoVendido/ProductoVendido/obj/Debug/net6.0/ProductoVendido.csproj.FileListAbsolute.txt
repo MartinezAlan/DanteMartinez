@@ -1,0 +1,15 @@
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\ProductoVendido\ProductoVendido\bin\Debug\net6.0\ProductoVendido.exe
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\ProductoVendido\ProductoVendido\bin\Debug\net6.0\ProductoVendido.deps.json
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\ProductoVendido\ProductoVendido\bin\Debug\net6.0\ProductoVendido.runtimeconfig.json
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\ProductoVendido\ProductoVendido\bin\Debug\net6.0\ProductoVendido.dll
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\ProductoVendido\ProductoVendido\bin\Debug\net6.0\ProductoVendido.pdb
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\ProductoVendido\ProductoVendido\obj\Debug\net6.0\ProductoVendido.csproj.AssemblyReference.cache
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\ProductoVendido\ProductoVendido\obj\Debug\net6.0\ProductoVendido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\ProductoVendido\ProductoVendido\obj\Debug\net6.0\ProductoVendido.AssemblyInfoInputs.cache
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\ProductoVendido\ProductoVendido\obj\Debug\net6.0\ProductoVendido.AssemblyInfo.cs
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\ProductoVendido\ProductoVendido\obj\Debug\net6.0\ProductoVendido.csproj.CoreCompileInputs.cache
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\ProductoVendido\ProductoVendido\obj\Debug\net6.0\ProductoVendido.dll
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\ProductoVendido\ProductoVendido\obj\Debug\net6.0\refint\ProductoVendido.dll
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\ProductoVendido\ProductoVendido\obj\Debug\net6.0\ProductoVendido.pdb
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\ProductoVendido\ProductoVendido\obj\Debug\net6.0\ProductoVendido.genruntimeconfig.cache
+C:\Users\alanp\OneDrive\Escritorio\cosas\c sharp\ProductoVendido\ProductoVendido\obj\Debug\net6.0\ref\ProductoVendido.dll
